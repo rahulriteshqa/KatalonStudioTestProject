@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description>Sanity Test Suite</description>
-   <name>OrangeHRMSanityTestSuite</name>
+   <description>Regression Suite</description>
+   <name>OrangeHRMRegressionSuite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,17 +10,17 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>0d897cc2-7ba1-4a62-b975-3d486d2f114d</testSuiteGuid>
+   <testSuiteGuid>0a8fb946-e309-41c3-8252-2a5668a66b46</testSuiteGuid>
    <testCaseLink>
-      <guid>4f459da2-42d6-4784-8550-a0e4be1f1756</guid>
+      <guid>6412bf85-4d2e-4905-81f4-1651bd7f84a9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Test_01-HomePage_Login</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>fe68e91b-69e7-4644-ba89-b1aa63f29792</guid>
+      <guid>94499340-5ba1-4cca-9015-785926618b90</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test_02-HomePage_InvalidLogin</testCaseId>
+      <testCaseId>Test Cases/Test_03-HomePage_Logout</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
